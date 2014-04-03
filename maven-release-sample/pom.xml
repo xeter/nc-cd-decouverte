@@ -34,8 +34,8 @@
   </build>
 
    <scm>
-    <connection>scm:git:git@github.com:MYUSERNAM/zenika_nc.git</connection>
-    <developerConnection>scm:git:git@github.com:MYUSERNAM/zenika_nc.git</developerConnection>
+    <connection>scm:git:git@github.com:xeter/zenika_nc.git</connection>
+    <developerConnection>scm:git:git@github.com:xeter/zenika_nc.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
      
@@ -44,12 +44,12 @@
       <uniqueVersion>false</uniqueVersion>
        <id>local-repository</id>
                <name>Local Repository</name>
-                <url>file:///path/to/MyRepo</url>
+                <url>file:///home/faom/dev/veille/zenika-nc-cd/nc-cd-decouverte/pseudo_nexus/local-repository/</url>
         </repository>
             <snapshotRepository>
                <id>snapshot-local-repository</id>
                <name>Local Repository</name>
-                <url>file:///path/to/MyRepo</url>
+                <url>file:///home/faom/dev/veille/zenika-nc-cd/nc-cd-decouverte/pseudo_nexus/snapshot-local-repository/</url>
             </snapshotRepository>
   </distributionManagement>
 
