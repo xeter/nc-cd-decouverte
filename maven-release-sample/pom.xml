@@ -34,8 +34,8 @@
   </build>
 
    <scm>
-    <connection>scm:git:git@github.com:xeter/zenika_nc.git</connection>
-    <developerConnection>scm:git:git@github.com:xeter/zenika_nc.git</developerConnection>
+    <connection>scm:git:git@github.com:xeter/nc-cd-decouverte.git</connection>
+    <developerConnection>scm:git:git@github.com:xeter/nc-cd-decouverte.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
      
